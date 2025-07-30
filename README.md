@@ -1,4 +1,5 @@
-# Cite-Oooops
-Страница, которая используется при реконструкции сайта
+# Oooops
+
+404 web page
 
 ![alt text](images/screencapture.png)
